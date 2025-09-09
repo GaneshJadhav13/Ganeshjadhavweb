@@ -98,31 +98,28 @@ export type Project = {
 
 export const projects: Project[] = [
 	{
-		title: 'Smart Home Automation System',
+		title: 'Campus Placement Portal',
 		description:
-			'Designed and implemented a smart home automation system using IoT technologies to control lighting, temperature, and security features.',
-		image: 'https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg',
-		tags: ['IoT', 'Arduino', 'C++', 'Mobile App'],
-		link: '#',
-		repo: '#',
+			'A web platform to streamline campus recruitment, allowing students to apply for jobs, companies to post openings, and placement officers to manage the process efficiently.',
+		image: 'https://ik.imagekit.io/xl3ejzehpu/Untitled.png?updatedAt=1757429198970',
+		tags: ['HTML', 'CSS', 'JS', 'PHP'],
+		
 	},
 	{
-		title: 'Structural Analysis Software',
+		title: 'AI Assistant',
 		description:
-			'Developed software for structural analysis of beams and trusses using numerical methods and visualization techniques.',
-		image: 'https://images.pexels.com/photos/1036657/pexels-photo-1036657.jpeg',
-		tags: ['MATLAB', 'Python', 'FEA', 'Structural Engineering'],
-		link: '#',
-		repo: '#',
+			'An intelligent virtual assistant that helps users with scheduling, reminders, and answering queries using natural language processing.',
+		image: 'https://ik.imagekit.io/xl3ejzehpu/360_F_559871209_pbXlOVArUal3mk6Ce60JuP13kmuIRCth.jpg?updatedAt=1757429219175',
+		tags: ['Python', 'OpenCV','HTML', 'CSS', 'JS']
+		
 	},
 	{
-		title: 'Renewable Energy Monitoring',
+		title: 'Movie Recommender System',
 		description:
-			'Created a system to monitor and analyze performance of solar panels and wind turbines for optimal energy production.',
-		image: 'https://images.pexels.com/photos/356036/pexels-photo-356036.jpeg',
-		tags: ['Data Analysis', 'IoT', 'Renewable Energy', 'Visualization'],
-		link: '#',
-		repo: '#',
+			'A personalized movie recommendation engine that suggests films based on user preferences and viewing history.',
+		image: 'https://ik.imagekit.io/xl3ejzehpu/dataset-card.jpg?updatedAt=1757429122977',
+		tags: ['Python', 'NumPy', 'Pandas', 'Jupyter'],
+		
 	},
 ];
 
