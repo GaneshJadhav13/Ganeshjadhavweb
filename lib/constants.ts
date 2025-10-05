@@ -1,7 +1,7 @@
 export const siteConfig = {
 	name: 'GRJ Portfolio',
 	description:
-		'A professional portfolio website template for cs students.',
+		"GRJ's  portfolio website.",
 	mainNav: [
 		{
 			title: 'Home',
