@@ -28,7 +28,7 @@ export function AboutPreview() {
 						className="relative h-[400px] rounded-lg overflow-hidden"
 					>
 						<Image
-							src="/grj.jpeg"
+							src="public\grjphoto.png"
 							alt="Engineer portrait"
 							fill
 							className="object-cover"
